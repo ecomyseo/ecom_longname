@@ -1,0 +1,56 @@
+/**
+ * Ecom Longname - Nombre de producto largo
+ *
+ * @author    Ecom Experts <ecomyseo@gmail.com>
+ * @copyright 2026 Ecom Experts
+ * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License (AFL 3.0)
+ */
+.lnm-header .lnm-estado {
+    margin-bottom: 10px;
+}
+
+.lnm-header .lnm-estado td:first-child {
+    width: 40%;
+    color: #6c868e;
+}
+
+.lnm-header .lnm-botones {
+    margin: 0 0 10px;
+}
+
+.lnm-header .lnm-botones .btn {
+    margin-right: 6px;
+}
+
+.lnm-header .lnm-oneline {
+    margin-top: 6px;
+}
+
+.lnm-accordion {
+    margin-top: 14px;
+    border-top: 1px solid #e0e6ed;
+    padding-top: 10px;
+}
+
+.lnm-accordion-toggle {
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.lnm-accordion-body {
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #f7f9fb;
+    border: 1px solid #e0e6ed;
+    border-radius: 4px;
+}
+
+.lnm-accordion-body h4 {
+    margin-top: 14px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.lnm-accordion-body h4:first-child {
+    margin-top: 0;
+}

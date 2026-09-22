@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="es-ES" datatype="plaintext" original="file.ext">
+    <body>
+      <trans-unit id="4d064726954a17487f94e931f5b157b733ec22ed" resname="Advanced">
+        <source>Advanced</source>
+        <target>Avanzado</target>
+      </trans-unit>
+      <trans-unit id="d1e6a41e9e681616a0ee70b0e57f571998082e6f" resname="Allow long names">
+        <source>Allow long names</source>
+        <target>Permitir nombres largos</target>
+      </trans-unit>
+      <trans-unit id="ddee495a3b01b6554d42aacf4b29ac15e14e0e3c" resname="Apply to the database">
+        <source>Apply to the database</source>
+        <target>Aplicar a la base de datos</target>
+      </trans-unit>
+      <trans-unit id="cc73202a1e3389ec32155fc5d33d2709383ef87c" resname="Back to 128 characters">
+        <source>Back to 128 characters</source>
+        <target>Volver a 128 caracteres</target>
+      </trans-unit>
+      <trans-unit id="81ca4d241d9b907cb2125e356a355a9821f7eeb1" resname="Before touching a shop with a lot of products">
+        <source>Before touching a shop with a lot of products</source>
+        <target>Antes de tocar una tienda con muchos productos</target>
+      </trans-unit>
+      <trans-unit id="a044546baddbf65a6c66e1adb09737f5454ad28e" resname="Between 128 and 8000. Saving already applies it to the database.">
+        <source>Between 128 and 8000. Saving already applies it to the database.</source>
+        <target>Entre 128 y 8000. Al guardar ya se aplica a la base de datos.</target>
+      </trans-unit>
+      <trans-unit id="d6634617117a660084f179587fe2354ad068c309" resname="Changing the column rewrites the table: on a big catalog it takes a while and the shop is slower meanwhile. Do it out of business hours and with a backup, like any other change to the database.">
+        <source>Changing the column rewrites the table: on a big catalog it takes a while and the shop is slower meanwhile. Do it out of business hours and with a backup, like any other change to the database.</source>
+        <target>Cambiar la columna reescribe la tabla: en un catálogo grande tarda un rato y la tienda va más lenta mientras. Hazlo fuera de horario y con una copia de seguridad, como cualquier otro cambio en la base de datos.</target>
+      </trans-unit>
+      <trans-unit id="c41258bb8cc602293cbbea86825b9ecffe1b999d" resname="Characters allowed">
+        <source>Characters allowed</source>
+        <target>Caracteres permitidos</target>
+      </trans-unit>
+      <trans-unit id="f03b1a341fa814dedab8ce11f46f614c86c28a1d" resname="Characters the database accepts now">
+        <source>Characters the database accepts now</source>
+        <target>Caracteres que admite ahora la base de datos</target>
+      </trans-unit>
+      <trans-unit id="5dae9df23e2d9bf89165e584c0588038e72e4a2a" resname="Characters the module validates">
+        <source>Characters the module validates</source>
+        <target>Caracteres que valida el módulo</target>
+      </trans-unit>
+      <trans-unit id="2867cf87b59dd752e50e1c3c1104db84a9b3a42a" resname="Debug log">
+        <source>Debug log</source>
+        <target>Registro de depuración</target>
+      </trans-unit>
+      <trans-unit id="52a9571684a365cc905984c87ba5a912878ee3ec" resname="Ecom Long product name">
+        <source>Ecom Long product name</source>
+        <target>Ecom Nombre de producto largo</target>
+      </trans-unit>
+      <trans-unit id="f4eeb00ab9dceffa5345e58c6107ec5bab79c02f" resname="Empty the log">
+        <source>Empty the log</source>
+        <target>Vaciar el registro</target>
+      </trans-unit>
+      <trans-unit id="3354406ed7173aa3f34535b2809eb4d477e7bd00" resname="Everywhere, by itself: the product page of the shop, the listings, the cart, the order, the order detail of the customer, the back-office order page, the invoices, the delivery slips, the confirmation email and every table. It is the real name of the product, not a copy.">
+        <source>Everywhere, by itself: the product page of the shop, the listings, the cart, the order, the order detail of the customer, the back-office order page, the invoices, the delivery slips, the confirmation email and every table. It is the real name of the product, not a copy.</source>
+        <target>En todas partes, solo: la ficha de producto de la tienda, los listados, el carrito, el pedido, el detalle del pedido del cliente, la ficha del pedido del back-office, las facturas, los albaranes, el correo de confirmación y todas las tablas. Es el nombre de verdad del producto, no una copia.</target>
+      </trans-unit>
+      <trans-unit id="9239ee2cda84eca4c3440e2a7b50148af67da3d4" resname="General">
+        <source>General</source>
+        <target>General</target>
+      </trans-unit>
+      <trans-unit id="32d0498785fdd72d5ebcdf92b7f04f3f63b66185" resname="Go to the product catalog">
+        <source>Go to the product catalog</source>
+        <target>Ir al catálogo de productos</target>
+      </trans-unit>
+      <trans-unit id="2a76e89f35a77ab4bb7ee6ccd5699ce7f548779d" resname="Going back">
+        <source>Going back</source>
+        <target>Dar marcha atrás</target>
+      </trans-unit>
+      <trans-unit id="ebace7fbcbb20b8be158a07f8655a31ddc366d68" resname="Help / how it works">
+        <source>Help / how it works</source>
+        <target>Ayuda / cómo funciona</target>
+      </trans-unit>
+      <trans-unit id="bd8b1a87fc07c3b8f8840adb3326e5a3fc096ff0" resname="If it is off, PrestaShop goes back to validating 128 characters.">
+        <source>If it is off, PrestaShop goes back to validating 128 characters.</source>
+        <target>Si está apagado, PrestaShop vuelve a validar 128 caracteres.</target>
+      </trans-unit>
+      <trans-unit id="e4f4c70803280be789600385d701c5451cb68df0" resname="Index on the name column">
+        <source>Index on the name column</source>
+        <target>Índice sobre la columna del nombre</target>
+      </trans-unit>
+      <trans-unit id="289ae2b18fc1b3587db4b62252b3370f4cc95ac3" resname="It cannot go back to 128 characters: %n% product names are longer and would be cut. Shorten them first.">
+        <source>It cannot go back to 128 characters: %n% product names are longer and would be cut. Shorten them first.</source>
+        <target>No se puede volver a 128 caracteres: hay %n% nombres de producto más largos y se cortarían. Acórtalos primero.</target>
+      </trans-unit>
+      <trans-unit id="851190d807938254492e887adec276f244461b08" resname="Last log files:">
+        <source>Last log files:</source>
+        <target>Últimos ficheros de registro:</target>
+      </trans-unit>
+      <trans-unit id="649e8f2c970ba19c54ede932ef3ac4a35cca387c" resname="Log files deleted: %n%.">
+        <source>Log files deleted: %n%.</source>
+        <target>Ficheros de registro borrados: %n%.</target>
+      </trans-unit>
+      <trans-unit id="deaf068c8bc73838391160fcd658604d934e2e58" resname="Long product name">
+        <source>Long product name</source>
+        <target>Nombre de producto largo</target>
+      </trans-unit>
+      <trans-unit id="0d749e4d550ee39977afb72b720d64546c6c56c1" resname="Longest name in the catalog right now">
+        <source>Longest name in the catalog right now</source>
+        <target>Nombre más largo que hay ahora en el catálogo</target>
+      </trans-unit>
+      <trans-unit id="816c52fd2bdd94a63cd0944823a6c0aa9384c103" resname="No">
+        <source>No</source>
+        <target>No</target>
+      </trans-unit>
+      <trans-unit id="a6cda033785092808045cb026774c79c2c9e931f" resname="PrestaShop brings 128">
+        <source>PrestaShop brings 128</source>
+        <target>PrestaShop trae 128</target>
+      </trans-unit>
+      <trans-unit id="2f0c0f66fab82ce3ea8947420c933aef6b507bb8" resname="PrestaShop limits the name of a product to 128 characters, and that limit lives in three places at once: the column of the database, the validation of the product model and the field of the product page. This module raises the three.">
+        <source>PrestaShop limits the name of a product to 128 characters, and that limit lives in three places at once: the column of the database, the validation of the product model and the field of the product page. This module raises the three.</source>
+        <target>PrestaShop limita el nombre de un producto a 128 caracteres, y ese límite vive en tres sitios a la vez: la columna de la base de datos, la validación del modelo de producto y el campo de la ficha de producto. Este módulo sube los tres.</target>
+      </trans-unit>
+      <trans-unit id="0fcf9f33c7e9d2989505d8ba83c7e020b1a4aa62" resname="Raises the product name limit from 128 characters to the length you choose, in the database and in the product page. The long name then shows up by itself in the cart, the order, the emails, the invoices and the tables.">
+        <source>Raises the product name limit from 128 characters to the length you choose, in the database and in the product page. The long name then shows up by itself in the cart, the order, the emails, the invoices and the tables.</source>
+        <target>Sube el límite del nombre del producto de 128 caracteres a los que elijas, en la base de datos y en la ficha de producto. El nombre largo sale entonces solo en el carrito, el pedido, los correos, las facturas y las tablas.</target>
+      </trans-unit>
+      <trans-unit id="efc007a393f66cdb14d57d385822a3d9e36ef873" resname="Save">
+        <source>Save</source>
+        <target>Guardar</target>
+      </trans-unit>
+      <trans-unit id="c7f73bb54d928922c3838bb789ee9fb8a5b1eb37" resname="Settings">
+        <source>Settings</source>
+        <target>Configuración</target>
+      </trans-unit>
+      <trans-unit id="f133b2924e9e0ef379b1cb63a7fb85d3b77c6c53" resname="Settings saved.">
+        <source>Settings saved.</source>
+        <target>Configuración guardada.</target>
+      </trans-unit>
+      <trans-unit id="d60949a9f41e1ced31dedebaf183d25ccd81dd18" resname="The Name field of the product page stops rejecting more than 128 characters.">
+        <source>The Name field of the product page stops rejecting more than 128 characters.</source>
+        <target>El campo Nombre de la ficha de producto deja de rechazar más de 128 caracteres.</target>
+      </trans-unit>
+      <trans-unit id="b6b05de56ff85d14f31f4078d94bf1966825b8bd" resname="The button &quot;Back to 128 characters&quot; leaves the column as PrestaShop brings it. It refuses to do it while there are longer names, because they would be cut. Uninstalling the module does not shrink the column either: your names are safe.">
+        <source>The button "Back to 128 characters" leaves the column as PrestaShop brings it. It refuses to do it while there are longer names, because they would be cut. Uninstalling the module does not shrink the column either: your names are safe.</source>
+        <target>El botón «Volver a 128 caracteres» deja la columna como la trae PrestaShop. Se niega a hacerlo mientras haya nombres más largos, porque se cortarían. Desinstalar el módulo tampoco encoge la columna: tus nombres están a salvo.</target>
+      </trans-unit>
+      <trans-unit id="6da9ac81c5f10dafec25930f2b23baf5a7001b16" resname="The column is the same for every shop: this setting is global.">
+        <source>The column is the same for every shop: this setting is global.</source>
+        <target>La columna es la misma para todas las tiendas: esta configuración es global.</target>
+      </trans-unit>
+      <trans-unit id="0481e741b015969c6e4aeb40462a95706da49227" resname="The column keeps the length it has now: your long names are not touched.">
+        <source>The column keeps the length it has now: your long names are not touched.</source>
+        <target>La columna se queda con la longitud que tiene ahora: tus nombres largos no se tocan.</target>
+      </trans-unit>
+      <trans-unit id="49fdc5b7cceddecf6984ebb51217d48cc6ee6c3a" resname="The column product_lang.name becomes as long as you set, and its index becomes a prefix index (a full index on a longer column does not fit in InnoDB).">
+        <source>The column product_lang.name becomes as long as you set, and its index becomes a prefix index (a full index on a longer column does not fit in InnoDB).</source>
+        <target>La columna product_lang.name pasa a la longitud que elijas, y su índice pasa a ser de prefijo (un índice completo sobre una columna más larga no cabe en InnoDB).</target>
+      </trans-unit>
+      <trans-unit id="946c7f0924780d75c9c82f546113707e1507acd3" resname="The column product_lang.name could not be read.">
+        <source>The column product_lang.name could not be read.</source>
+        <target>No se ha podido leer la columna product_lang.name.</target>
+      </trans-unit>
+      <trans-unit id="0efc3bdafe6161fb9d6e2de05e5dd4734456153d" resname="The database could not be changed: %error%">
+        <source>The database could not be changed: %error%</source>
+        <target>No se ha podido cambiar la base de datos: %error%</target>
+      </trans-unit>
+      <trans-unit id="9dcdea9d69bd2987b49c6c8f5b7e2b9e3bd01dd4" resname="The database still limits the name to %n% characters. Press &quot;Apply to the database&quot;.">
+        <source>The database still limits the name to %n% characters. Press "Apply to the database".</source>
+        <target>La base de datos sigue limitando el nombre a %n% caracteres. Pulsa «Aplicar a la base de datos».</target>
+      </trans-unit>
+      <trans-unit id="3b5f1b655f22fa1e4bee18bdc2754c69b2249040" resname="The friendly URL">
+        <source>The friendly URL</source>
+        <target>La URL amigable</target>
+      </trans-unit>
+      <trans-unit id="feedf2cc7ab4b43ba20df6760aa3e5e8641dfce0" resname="The friendly URL keeps its 128 characters: making it longer is bad for SEO and for the browsers. If it is built from a long name, the module cuts it at 128.">
+        <source>The friendly URL keeps its 128 characters: making it longer is bad for SEO and for the browsers. If it is built from a long name, the module cuts it at 128.</source>
+        <target>La URL amigable se queda con sus 128 caracteres: alargarla es malo para el SEO y para los navegadores. Si se genera a partir de un nombre largo, el módulo la corta en 128.</target>
+      </trans-unit>
+      <trans-unit id="0c7d287d2d6852cd5237a26c7156c3968395a166" resname="The long name is written in the product page, in the Name field, like always. Nothing else changes.">
+        <source>The long name is written in the product page, in the Name field, like always. Nothing else changes.</source>
+        <target>El nombre largo se escribe en la ficha de producto, en el campo Nombre, como siempre. No cambia nada más.</target>
+      </trans-unit>
+      <trans-unit id="84b05177e8bfb40188c25b2c3e2e5fdaa24ee19f" resname="The module is not hooked to %hook%.">
+        <source>The module is not hooked to %hook%.</source>
+        <target>El módulo no está enganchado a %hook%.</target>
+      </trans-unit>
+      <trans-unit id="7ea65da4e81a5ae0642491cf5fcada9c477552bf" resname="The module is off: PrestaShop is validating 128 characters again. Turn it on in the General tab.">
+        <source>The module is off: PrestaShop is validating 128 characters again. Turn it on in the General tab.</source>
+        <target>El módulo está apagado: PrestaShop vuelve a validar 128 caracteres. Actívalo en la pestaña General.</target>
+      </trans-unit>
+      <trans-unit id="5ed28f5032820a18ea9cf6b7dca08f81f1b9d981" resname="The name goes back to 128 characters. Shall we go on?">
+        <source>The name goes back to 128 characters. Shall we go on?</source>
+        <target>El nombre vuelve a 128 caracteres. ¿Seguimos?</target>
+      </trans-unit>
+      <trans-unit id="d4209bd1b6f39d59cc9a1ac75155cd1bbb1e8317" resname="The name index covers the whole column: it should be a prefix index.">
+        <source>The name index covers the whole column: it should be a prefix index.</source>
+        <target>El índice del nombre cubre la columna entera: tendría que ser un índice de prefijo.</target>
+      </trans-unit>
+      <trans-unit id="7b578351a71017f1531eb05f8432b259ceba07a9" resname="The product name is back to 128 characters.">
+        <source>The product name is back to 128 characters.</source>
+        <target>El nombre del producto vuelve a 128 caracteres.</target>
+      </trans-unit>
+      <trans-unit id="8b9e5767a28fb1ac86422ad0e4e7d976f7b59734" resname="The size of the name in the product model is raised, so saving a longer name no longer throws an exception.">
+        <source>The size of the name in the product model is raised, so saving a longer name no longer throws an exception.</source>
+        <target>Se sube el tamaño del nombre en el modelo de producto, así que guardar un nombre más largo ya no lanza una excepción.</target>
+      </trans-unit>
+      <trans-unit id="d0a86be5fb88903585b5eaa5e3a41b0410d97e65" resname="What it changes">
+        <source>What it changes</source>
+        <target>Qué cambia</target>
+      </trans-unit>
+      <trans-unit id="c8887137fd40539662d3fe4f144b9525ab6f2dc1" resname="Where the long name shows up">
+        <source>Where the long name shows up</source>
+        <target>Dónde sale el nombre largo</target>
+      </trans-unit>
+      <trans-unit id="3fdf2edcc11410f8d2f7c496c32cae4c15346a24" resname="Writes what the module does in the logs folder of the module.">
+        <source>Writes what the module does in the logs folder of the module.</source>
+        <target>Escribe lo que hace el módulo en la carpeta logs del propio módulo.</target>
+      </trans-unit>
+      <trans-unit id="5397e0583f14f6c88de06b1ef28f460a1fb5b0ae" resname="Yes">
+        <source>Yes</source>
+        <target>Sí</target>
+      </trans-unit>
+      <trans-unit id="5a013c49508291c6816ac388f93a2c11973086ed" resname="missing">
+        <source>missing</source>
+        <target>no existe</target>
+      </trans-unit>
+      <trans-unit id="54f3a120d0f8a690b7e3b32fc641a7959b9cbc1e" resname="names over 128 characters:">
+        <source>names over 128 characters:</source>
+        <target>nombres de más de 128 caracteres:</target>
+      </trans-unit>
+      <trans-unit id="dd1beed1d402d96ba6dcfb7e88364354bfc5f714" resname="prefix of %n% characters">
+        <source>prefix of %n% characters</source>
+        <target>prefijo de %n% caracteres</target>
+      </trans-unit>
+      <trans-unit id="e1a4c06cfa9c759b1a73d8158424eff304afe37c" resname="whole column">
+        <source>whole column</source>
+        <target>columna entera</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
